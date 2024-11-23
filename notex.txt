@@ -1,0 +1,9 @@
+1- Transorms
+2- Animations
+3- Media Query
+4- Psudo Elements
+5- Remix Icons
+6- Universal and Selectors
+7- Units
+8- Box Sizing
+9- Variables
